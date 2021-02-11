@@ -1,4 +1,5 @@
-
+# Imports the system module, which allows the program to quit
+import sys
 
 # List of who should be arrested
 criminal = ['Sashin', 'Josiah', 'Ethan']
